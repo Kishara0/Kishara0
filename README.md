@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder" style="border-radius: 50%; display: block; margin: 0 auto; margin-bottom: 20px;">
+   
 </head>
 <body>
   <header>
     <h1 style="text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hi 👋, I'm Kishara Manilka</h1>
-    <h3 style="text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">A passionate full stack developer from Sri Lanka</h3>
+    <hr>
   </header>
 
   <section>
@@ -17,7 +17,7 @@
       <li style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">📫  <strong>Reach me at</strong> <br>Kisharamanilka0@gmail.com</li>
     </ul>
   </section>
-
+<hr>
   <section>
     <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Connect with me:</h3>
     <p style="text-align: center;">
@@ -26,7 +26,7 @@
       <a href="https://instagram.com/kishara manilka" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
     </p>
   </section>
-
+<hr>
   <section>
     <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Languages and Tools I Have Used:</h3>
     <p style="text-align: center;">
@@ -51,7 +51,7 @@
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
     </p>
   </section>
-
+<hr>
   <footer>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishara0&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   </footer>
