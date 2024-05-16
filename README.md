@@ -24,7 +24,7 @@
   <section>
     <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Connect with me:</h3>
     <p style="text-align: center;">
-      <a href="https://linkedin.com/in/kishara manilka" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+      <a href="https://linkedin.com/in/kisharamanilka" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
       <a href="https://fb.com/kishara manilka" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
       <a href="https://instagram.com/kishara_manilka" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
     </p>
