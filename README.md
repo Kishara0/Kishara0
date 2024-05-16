@@ -7,11 +7,14 @@
 </head>
 <body>
   <header>
-    <h1 style="text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hi 👋, I'm Kishara Manilka</h1>
+    <h1 align="center">Hi 👋, I'm Kishara Manilka. </h1>
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=Kishara0"
+    alt="adam-pw" />
     <hr>
   </header>
 
   <section>
+    <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
     <ul style="list-style-type: none; padding: 0; text-align: center;">
       <li style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"><strong> Who am I? </strong><br> I'm a Computer Engineering (BSc. Hons) Undergraduate at the University of Jaffna, Sri Lanka, with a strong interest in AI, Machine Learning, software development, web development and content creation.</li>
       <li style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">📫  <strong>Reach me at</strong> <br>Kisharamanilka0@gmail.com</li>
@@ -53,7 +56,23 @@
   </section>
 <hr>
   <footer>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishara0&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <h3>My stats :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=kishara0&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="kishara0" 
+    bg_color=#808080/></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishara0&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="kishara0" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kishara0&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Kishara0" /></p>
+
+<h3 align="center"> Thank you for visiting my profile 🤓</h3>
+      
   </footer>
 </body>
 </html>
